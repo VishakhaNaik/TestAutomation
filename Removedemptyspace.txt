@@ -6,7 +6,7 @@ public class Removedemptyspace {
 		
 		String s1= s.replaceAll("\s", "");
 		
-		System.out.println(s1);
+		System.out.println("String"+s1);
 		
 		
 	}
